@@ -6,7 +6,8 @@
     <div class="page-title">
         <div class="row">
             <div class="col-6">
-                <h3><?php echo ucfirst(pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME)); ?></h3>
+                <!-- <h3><php echo ucfirst(pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME)); ?></h3> -->
+                <h3>SUPER FAST QUOTATION - OBTENHA UMA COTAÇÃO GRATUITA DE ENVIO</h3>
             </div>
             <div class="col-6">
                 <ol class="breadcrumb">

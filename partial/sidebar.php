@@ -29,7 +29,7 @@
               </svg>
               <svg class="fill-icon">
                 <use href="assets/svg/icon-sprite.svg#fill-home"></use>
-              </svg><span class="lan-3">Dashboard </span></a>
+              </svg><span class="lan-3">Rastrear </span></a>
             <ul class="sidebar-submenu">
               <li><a class="lan-4" href="index.php">Default</a></li>
               <li><a class="lan-5" href="e-commerce.php">Ecommerce</a></li>
@@ -56,7 +56,7 @@
               </svg>
               <svg class="fill-icon">
                 <use href="assets/svg/icon-sprite.svg#fill-layout"></use>
-              </svg><span class="lan-7">Page layout</span></a>
+              </svg><span class="lan-7">Enviar</span></a>
             <ul class="sidebar-submenu">
               <li><a href="box-layout.php">Boxed</a></li>
               <li><a href="layout-rtl.php">RTL</a></li>
@@ -79,7 +79,7 @@
               </svg>
               <svg class="fill-icon">
                 <use href="assets/svg/icon-sprite.svg#fill-project"></use>
-              </svg><span>Project </span></a>
+              </svg><span>Atendimento ao Cliente </span></a>
             <ul class="sidebar-submenu">
               <li><a href="projects.php">Project List</a></li>
               <li><a href="projectcreate.php">Create new</a></li>

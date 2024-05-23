@@ -11,7 +11,7 @@
     <meta name="author" content="pixelstrap">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <title>Cuba - Premium Admin Template</title>
+    <title>A-Log : Pensou, Chegou!</title>
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
@@ -71,7 +71,7 @@
                           <td style="padding: 30px"> 
                             <p>Hi There,</p>
                             <p>Sometimes you just want to send a simple HTML email with a simple design and clear call to action.</p>
-                            <div class="text-center"><a href="#" style="padding: 10px; background-color: #7366ff; color: #fff; display: inline-block; border-radius: 4px; margin-bottom: 18px">Call To Action </a></div>
+                            <div class="text-center"><a href="#" style="padding: 10px; background-color: #f9c000; color: #fff; display: inline-block; border-radius: 4px; margin-bottom: 18px">Call To Action </a></div>
                             <p>This is a really simple email template. It's sole purpose is to get the recipient to click the button with no distractions.</p>
                             <p style="margin-bottom: 0">Good luck! Hope it works.</p>
                           </td>
@@ -83,7 +83,7 @@
                         <tr style="text-align: center">
                           <td> 
                             <p style="color: #999; margin-bottom: 0">333 Woodland Rd. Baldwinsville, NY 13027</p>
-                            <p style="color: #999; margin-bottom: 0">Don't Like These Emails?<a href="#" style="color: #7366ff">Unsubscribe</a></p>
+                            <p style="color: #999; margin-bottom: 0">Don't Like These Emails?<a href="#" style="color: #f9c000">Unsubscribe</a></p>
                             <p style="color: #999; margin-bottom: 0">Powered By Cuba Admin</p>
                           </td>
                         </tr>

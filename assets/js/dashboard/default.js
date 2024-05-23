@@ -605,7 +605,7 @@ var recentoptions = {
       colorStops: [
         {
           offset: 0,
-          color: "#7366FF",
+          color: "#f9c000",
           opacity: 1
         },
         {
@@ -847,7 +847,7 @@ var recentoptions = {
         top: 5,
         left: 0,
         blur: 4,
-        color: '#7366ff',
+        color: '#f9c000',
         opacity: 0.22
       },
     },

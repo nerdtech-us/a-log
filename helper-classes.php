@@ -522,7 +522,7 @@ width: 100px !important;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.font-primary {
-color: #7366ff !important;
+color: #f9c000 !important;
 }
 .font-secondary {
 color: #f73164 !important;
@@ -555,7 +555,7 @@ color: #f8d62b !important;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.badge-primary {
-background-color: #7366ff;
+background-color: #f9c000;
 }
 .badge-secondary {
 background-color: #f73164;
@@ -588,7 +588,7 @@ background-color: #f8d62b;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.bg-primary {
-background-color: #7366ff !important;
+background-color: #f9c000 !important;
 color: #fff;
 }
 .bg-secondary {
@@ -629,8 +629,8 @@ color: #fff;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.btn-primary {
-background-color: #7366ff;
-border-color: #7366ff;
+background-color: #f9c000;
+border-color: #f9c000;
 }
 .btn-secondary {
 background-color: #f73164;
@@ -935,19 +935,19 @@ font-size: 100px;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.b-primary {
-border: 1px solid #7366ff !important;
+border: 1px solid #f9c000 !important;
 }
 .b-t-primary {
-border-top: 1px solid #7366ff !important;
+border-top: 1px solid #f9c000 !important;
 }
 .b-b-primary {
-border-bottom: 1px solid #7366ff !important;
+border-bottom: 1px solid #f9c000 !important;
 }
 .b-l-primary {
-border-left: 1px solid #7366ff !important;
+border-left: 1px solid #f9c000 !important;
 }
 .b-r-primary {
-border-right: 1px solid #7366ff !important;
+border-right: 1px solid #f9c000 !important;
 }
 .b-secondary {
 border: 1px solid #f73164 !important;
@@ -1126,8 +1126,8 @@ position: inherit;
                             </div>
                             <div class="card-body">
                                 <pre class="helper-classes">.btn-outline-primary {
-border-color: #7366ff;
-color: #7366ff;
+border-color: #f9c000;
+color: #f9c000;
 background-color: transparent;
 }
 .btn-outline-secondary {

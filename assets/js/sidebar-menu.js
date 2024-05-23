@@ -5,9 +5,13 @@ $(".mobile-back").click(function () {
     $('#sidebar-links .nav-menu').css("left", "-410px");
 });
 $(".page-wrapper").attr("class", "page-wrapper " + localStorage.getItem('page-wrapper'));
+// if (localStorage.getItem("page-wrapper") === null) {
+//     $(".page-wrapper").addClass("horizontal-wrapper");
+//  }
 if (localStorage.getItem("page-wrapper") === null) {
-    $(".page-wrapper").addClass("horizontal-wrapper");
+    $(".page-wrapper").addClass("horizontal-wrapper enterprice-type");
  }
+
 
 // left sidebar and vertical menu
 if ($('#pageWrapper').hasClass('compact-wrapper')) {

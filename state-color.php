@@ -23,7 +23,7 @@
                             </div>
                             <div class="card-body">
                                 <div class="color-box">
-                                    <button class="btn btn-primary btn-square">#7366ff</button>
+                                    <button class="btn btn-primary btn-square">#f9c000</button>
                                     <button class="btn btn-square btn-secondary">#f73164</button>
                                     <button class="btn btn-square btn-success">#51bb25</button>
                                     <button class="btn btn-square btn-info">#a927f9</button>

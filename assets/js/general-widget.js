@@ -377,7 +377,7 @@ var options3 = {
         top: 5,
         left: 0,
         blur: 4,
-        color: '#7366ff',
+        color: '#f9c000',
         opacity: 0.22
       },
     },

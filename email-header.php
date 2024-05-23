@@ -9,7 +9,7 @@
     <meta name="author" content="pixelstrap">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-    <title>Cuba - Premium Admin Template</title>
+    <title>A-Log : Pensou, Chegou!</title>
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -74,7 +74,7 @@
                                 <td style="padding: 30px">
                                     <h6 style="font-weight: 600">Password Reset</h6>
                                     <p>you forgot your password for Cuba Admin. If this is true, click below to reset your password.</p>
-                                    <p style="text-align: center"><a href="#" style="padding: 10px; background-color: #7366ff; color: #fff; display: inline-block; border-radius: 4px">Reset Password</a></p>
+                                    <p style="text-align: center"><a href="#" style="padding: 10px; background-color: #f9c000; color: #fff; display: inline-block; border-radius: 4px">Reset Password</a></p>
                                     <p>If you have remember your password you can safely ignore his email.</p>
                                     <p>Good luck! Hope it works.</p>
                                     <p style="margin-bottom: 0">
@@ -88,7 +88,7 @@
                             <tr style="text-align: center">
                                 <td>
                                     <p style="color: #999; margin-bottom: 0">333 Woodland Rd. Baldwinsville, NY 13027</p>
-                                    <p style="color: #999; margin-bottom: 0">Don't Like These Emails?<a href="#" style="color: #7366ff">Unsubscribe</a></p>
+                                    <p style="color: #999; margin-bottom: 0">Don't Like These Emails?<a href="#" style="color: #f9c000">Unsubscribe</a></p>
                                     <p style="color: #999; margin-bottom: 0">Powered By Cuba Admin</p>
                                 </td>
                             </tr>

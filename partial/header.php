@@ -10,5 +10,5 @@
   <meta name="author" content="pixelstrap">
   <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-  <title><?php echo 'Cuba - Premium Admin Template'; ?></title>
+  <title><?php echo 'A-Log : Pensou, Chegou!'; ?></title>
 <?php include('style.php'); ?>
